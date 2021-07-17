@@ -13,4 +13,4 @@ children:
   - /attributing-sponsorships-to-your-organization
 shortTitle: Sponsor contributors
 ---
-
+...
